@@ -9,3 +9,6 @@ Top 50 positive words Iphone 11,
 
 Sentiment on Samsung Galaxy S10,
 ![image](https://user-images.githubusercontent.com/59784424/89116346-097ad480-d448-11ea-8b64-745cda4575d3.png)
+
+top 50 positive reviews of samsung galaxy s10,
+
